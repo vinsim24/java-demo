@@ -3,15 +3,16 @@
 	<title>Chef Training by School of Devops</title>
 	<style>
 		body {
-			background-color: #42f4dc;
+			background-color: #42f4fc;
 		}
 	</style>
 </head>
 <body>
 
-  <h1> Automated Deployment with Chef Demo </h1>
-  <h2>Hello Chefs!</h2>
-  <h3>version 0.0.19 </h3>
+  <h1>Devops Demo </h1>
+
+  <h2>App : Demo</h2>
+  <h3>version 0.0.20 </h3>
 
 
 
